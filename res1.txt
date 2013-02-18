@@ -1,0 +1,101 @@
+Input; Free Capacity; Algorithm; Steps; Bin1; Bin2
+2 25 37 73; 63; SimpleExponential;2;  2 25 37; 73;
+13 35 36 70; 46; SimpleExponential;2;  13 35 36; 70;
+3 10 59 93; 35; SimpleExponential;2;  3 10 59; 93;
+24 25 37 64; 50; SimpleExponential;2;  24 25 37; 64;
+30 41 44 50; 35; SimpleExponential;4;  30 41; 44 50;
+12 20 20 50; 98; SimpleExponential;2;  12 20 20; 50;
+12 23 70 81; 14; SimpleExponential;7;  12 81; 23 70;
+3 34 48 56; 59; SimpleExponential;2;  3 34 48; 56;
+12 34 59 80; 15; SimpleExponential;7;  12 80; 34 59;
+8 47 62 83; 0; SimpleExponential;7;No solution.
+9 27 40 92; 32; SimpleExponential;2;  9 27 40; 92;
+18 40 56 69; 17; SimpleExponential;7;  18 69; 40 56;
+28 33 33 93; 13; SimpleExponential;2;  28 33 33; 93;
+5 13 22 72; 88; SimpleExponential;2;  5 13 22; 72;
+25 40 51 57; 27; SimpleExponential;6;  25 51; 40 57;
+2 4 36 39; 119; SimpleExponential;1;  2 4 36 39;;
+21 24 50 83; 22; SimpleExponential;2;  21 24 50; 83;
+19 30 34 37; 80; SimpleExponential;2;  19 30 34; 37;
+17 24 39 93; 27; SimpleExponential;2;  17 24 39; 93;
+2 13 61 77; 47; SimpleExponential;2;  2 13 61; 77;
+24 38 43 60; 35; SimpleExponential;6;  24 43; 38 60;
+10 30 55 79; 26; SimpleExponential;2;  10 30 55; 79;
+25 46 53 76; 0; SimpleExponential;7;No solution.
+2 8 78 82; 30; SimpleExponential;2;  2 8 78; 82;
+3 5 22 91; 79; SimpleExponential;2;  3 5 22; 91;
+17 27 51 54; 51; SimpleExponential;2;  17 27 51; 54;
+5 12 14 24; 145; SimpleExponential;1;  5 12 14 24;;
+11 35 39 81; 34; SimpleExponential;2;  11 35 39; 81;
+13 50 59 60; 18; SimpleExponential;7;No solution.
+11 12 40 60; 77; SimpleExponential;2;  11 12 40; 60;
+32 37 49 55; 27; SimpleExponential;6;  32 49; 37 55;
+19 41 44 55; 41; SimpleExponential;4;  19 41; 44 55;
+13 33 36 65; 53; SimpleExponential;2;  13 33 36; 65;
+11 21 43 87; 38; SimpleExponential;2;  11 21 43; 87;
+4 14 21 57; 104; SimpleExponential;1;  4 14 21 57;;
+8 13 26 38; 115; SimpleExponential;1;  8 13 26 38;;
+3 21 34 38; 104; SimpleExponential;1;  3 21 34 38;;
+43 47 53 56; 1; SimpleExponential;7;  43 56; 47 53;
+14 27 33 82; 44; SimpleExponential;2;  14 27 33; 82;
+12 21 33 45; 89; SimpleExponential;2;  12 21 33; 45;
+6 19 24 72; 79; SimpleExponential;2;  6 19 24; 72;
+22 35 35 37; 71; SimpleExponential;2;  22 35 35; 37;
+1 8 48 77; 66; SimpleExponential;2;  1 8 48; 77;
+6 7 13 50; 124; SimpleExponential;1;  6 7 13 50;;
+43 43 51 54; 9; SimpleExponential;6;  43 51; 43 54;
+3 13 16 68; 100; SimpleExponential;1;  3 13 16 68;;
+10 15 51 92; 32; SimpleExponential;2;  10 15 51; 92;
+18 31 39 75; 37; SimpleExponential;2;  18 31 39; 75;
+24 37 62 67; 10; SimpleExponential;7;  24 67; 37 62;
+9 27 38 47; 79; SimpleExponential;2;  9 27 38; 47;
+32 43 60 61; 4; SimpleExponential;7;No solution.
+17 34 56 59; 34; SimpleExponential;6;  17 56; 34 59;
+14 39 51 65; 31; SimpleExponential;7;  14 65; 39 51;
+12 14 37 56; 81; SimpleExponential;2;  12 14 37; 56;
+4 8 12 72; 104; SimpleExponential;1;  4 8 12 72;;
+2 16 56 98; 28; SimpleExponential;2;  2 16 56; 98;
+3 28 39 63; 67; SimpleExponential;2;  3 28 39; 63;
+21 23 29 86; 41; SimpleExponential;2;  21 23 29; 86;
+7 7 15 51; 120; SimpleExponential;1;  7 7 15 51;;
+6 9 42 84; 59; SimpleExponential;2;  6 9 42; 84;
+3 22 38 40; 97; SimpleExponential;2;  3 22 38; 40;
+2 23 42 86; 47; SimpleExponential;2;  2 23 42; 86;
+10 24 62 84; 20; SimpleExponential;2;  10 24 62; 84;
+9 12 74 81; 24; SimpleExponential;2;  9 12 74; 81;
+4 18 21 39; 118; SimpleExponential;1;  4 18 21 39;;
+10 33 41 53; 63; SimpleExponential;2;  10 33 41; 53;
+17 22 59 76; 26; SimpleExponential;2;  17 22 59; 76;
+9 37 66 71; 17; SimpleExponential;7;No solution.
+28 33 51 88; 0; SimpleExponential;7;No solution.
+7 46 57 90; 0; SimpleExponential;7;No solution.
+1 17 79 94; 9; SimpleExponential;2;  1 17 79; 94;
+1 13 70 97; 19; SimpleExponential;2;  1 13 70; 97;
+4 13 36 55; 92; SimpleExponential;2;  4 13 36; 55;
+11 15 61 92; 21; SimpleExponential;2;  11 15 61; 92;
+3 10 71 77; 39; SimpleExponential;2;  3 10 71; 77;
+6 8 9 27; 150; SimpleExponential;1;  6 8 9 27;;
+19 34 59 75; 13; SimpleExponential;7;  19 75; 34 59;
+11 13 48 93; 35; SimpleExponential;2;  11 13 48; 93;
+11 24 77 79; 9; SimpleExponential;7;No solution.
+6 21 33 65; 75; SimpleExponential;2;  6 21 33; 65;
+4 16 69 84; 27; SimpleExponential;2;  4 16 69; 84;
+18 23 71 84; 4; SimpleExponential;7;No solution.
+18 28 49 55; 50; SimpleExponential;2;  18 28 49; 55;
+27 31 50 69; 23; SimpleExponential;6;  27 50; 31 69;
+2 7 26 42; 123; SimpleExponential;1;  2 7 26 42;;
+6 8 36 49; 101; SimpleExponential;1;  6 8 36 49;;
+16 20 51 61; 52; SimpleExponential;2;  16 20 51; 61;
+5 11 36 71; 77; SimpleExponential;2;  5 11 36; 71;
+10 18 55 69; 48; SimpleExponential;2;  10 18 55; 69;
+16 28 30 67; 59; SimpleExponential;2;  16 28 30; 67;
+2 14 37 64; 83; SimpleExponential;2;  2 14 37; 64;
+15 25 48 73; 39; SimpleExponential;2;  15 25 48; 73;
+5 17 58 74; 46; SimpleExponential;2;  5 17 58; 74;
+6 15 16 88; 75; SimpleExponential;2;  6 15 16; 88;
+29 36 56 79; 0; SimpleExponential;7;No solution.
+17 27 68 78; 10; SimpleExponential;7;  17 78; 27 68;
+7 16 33 68; 76; SimpleExponential;2;  7 16 33; 68;
+7 35 56 60; 42; SimpleExponential;2;  7 35 56; 60;
+4 6 42 95; 53; SimpleExponential;2;  4 6 42; 95;
+26 28 37 38; 71; SimpleExponential;2;  26 28 37; 38;
